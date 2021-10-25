@@ -793,7 +793,7 @@ footer{
         }
 
         .button{
-            margin-top: 295px; 
+            margin-top: 255px; 
            bottom: 40px;
        }
 
@@ -973,8 +973,8 @@ footer{
                 footer{
                
                     height:120px;
-                
-                    font-size: 15px;
+                    margin: 5px 3px;
+                    font-size: 14px;
                 }
 
     }
