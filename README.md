@@ -4,9 +4,10 @@
 ### A Photography Portfolio Website
 *Uses HTML, CSS, JavaScript, JQuery and other JS Libraries
 
-<img src="Screenshot BM Portfolio.PNG" width=600>
+<img src="Screenshot BM Portfolio.PNG" width=800>
 
-# About Me Section
+
+<img src="Screenshot BM Portfolio- About Me.PNG" width=800>
 
 
 
